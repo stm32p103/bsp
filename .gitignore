@@ -1,0 +1,8 @@
+/sims/**/*.log
+/sims/**/*.net
+/sims/**/*.raw
+
+# System Files
+.DS_Store
+Thumbs.db
+
