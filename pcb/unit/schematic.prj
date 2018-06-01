@@ -1,0 +1,67 @@
+SECTION DesignInfo
+LIST IndependentLibraries
+VALUE "DIR [W] . (unit)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Audio (Audio)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Battery (Battery)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Capacitor (Capacitor)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Circuit_Protection (Circuit_Protection)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Connector (Connector)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Diode (Diode)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Display (Display)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Documentation (Documentation)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Filter (Filter)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\IC (IC)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Inductor (Inductor)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Mechanical (Mechanical)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Oscillator (Oscillator)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Power_Ground (Power_Ground)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Resistor (Resistor)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Switch (Switch)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Transformer (Transformer)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Transistor (Transistor)"
+VALUE "DIR [W] ${DESIGNER_LAYOUT_WDIR}\Libraries\SymbolLibrary\Border (Border)"
+VALUE "DIR [W] I:\circuit\pcb\lib\symbol (my)"
+ENDLIST
+KEY BorderSymbols "./Maker_Borders.ini"
+KEY CentralLibrary ""
+KEY CnsFileName ""
+KEY FrontEndSnapshot "DxD"
+KEY LayoutID "PADS100"
+KEY PcbCfgFileName ""
+KEY PinComponents "./Maker_Speccomp.ini"
+KEY SheetsEditMode "1"
+KEY DxD_Version "Designer_2.0"
+ENDSECTION
+SECTION FlowSettings
+KEY FlowType "NETLIST"
+ENDSECTION
+SECTION ICXProInfo
+KEY ICXProDir "ICXPro"
+ENDSECTION
+SECTION ProjectBackup
+KEY ConfigFile ".\ProjectBackup\ProjectBackup.cfg"
+ENDSECTION
+SECTION Template_Design
+KEY CADBackAnno "0"
+KEY ConfigType "PCB"
+KEY SchematicConflict "FE"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY SearchPathScheme "(Default)"
+ENDSECTION
+SECTION iCDB
+LIST Designs
+VALUE "Board1"
+ENDLIST
+KEY DedicatedServerName ""
+KEY iCDBDir ".\database"
+ENDSECTION
+SECTION Board1
+KEY CADBackAnno "0"
+KEY ConfigType "PCB"
+KEY SchematicConflict "FE"
+KEY SchematicDesignBackAnno "0"
+KEY SchematicDesignStatus "0"
+KEY SearchPathScheme "(Default)"
+KEY RootBlock "Schematic1"
+ENDSECTION
